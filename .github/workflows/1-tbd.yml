@@ -1,4 +1,4 @@
-name: Step 1, TBD-step-1-name
+name: Step 1, TBD-step-1-information
 
 # This step triggers after TBD-step-1-event-desc.
 # This workflow updates from step 1 to step 2.
